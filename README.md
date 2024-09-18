@@ -12,7 +12,7 @@ This project is a clone of the iPhone 15 page built with React, GSAP, and Three.
 
 ## Demo
 
-You can view the live demo of this project here: [Link to Demo]
+You can view the live demo of this project here: [iPhone 15 page Clone](https://iphone-15-page-clone.netlify.app)
 
 ## Features
 
