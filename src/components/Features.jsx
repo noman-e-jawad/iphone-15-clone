@@ -39,7 +39,7 @@ const Features = () => {
         start: "-10% bottom",
       },
       onComplete: () => {
-        video.play();
+        videoRef.current.play();
       },
     });
   });
